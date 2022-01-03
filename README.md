@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://ik.imagekit.io/atnyozbx9v/logo_sM7TlHoKx.svg?updatedAt=1641252263368" width="220px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://ik.imagekit.io/atnyozbx9v/devfinances_xVqffA5mh.png?updatedAt=1641252210973" width="100%">
 </p>
 
 ## 🚀 Tecnologias
